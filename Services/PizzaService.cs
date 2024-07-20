@@ -1,6 +1,8 @@
-using ContosoPizza.Models;
 
 namespace ContosoPizza.Services;
+
+using ContosoPizza.Models;
+
 
 public static class PizzaService
 {
